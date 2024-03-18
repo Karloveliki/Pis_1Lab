@@ -8,5 +8,6 @@ namespace Pis_1Lab
 {
     internal class NewClass
     {
+        //hejjjj!
     }
 }
